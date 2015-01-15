@@ -1,2 +1,2 @@
 # mediamedica
-Website voor Uitgeverij Media Medica
+Code voor Uitgeverij Media Medica
